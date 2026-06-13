@@ -40,15 +40,15 @@ Program, teslimat sürecini konsol üzerinden takip etmeye olanak tanır ve ara�
 *	└── lojistik/
 *	 ├── Konum.java
 *	 ├── Musteri.java
-*	  ├── Paket.java
-*	  ├── AgirPaketException.java
-*	  ├── ILogger.java
-*	  ├── Arac.java
-*	  ├── Kamyon.java
-*	  ├── Motorsiklet.java
-*	  ├── Drone.java	
-*	  ├── LojistikSistemi.java
-*	  └── Main.java
+*	 ├── Paket.java
+*	 ├── AgirPaketException.java
+*	 ├── ILogger.java
+*	 ├── Arac.java
+*	 ├── Kamyon.java
+*	 ├── Motorsiklet.java
+*	 ├── Drone.java	
+*	 ├── LojistikSistemi.java
+*	 └── Main.java
 
 
 ## Konum
